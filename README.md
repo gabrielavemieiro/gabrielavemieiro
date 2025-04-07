@@ -1,17 +1,13 @@
-# 👋 Olá! Eu sou a Gabs, 
-## ... uma aspirante a economista apaixonada por dados, automação e aquele momento mágico em que tudo roda sem erros!
+### 👋 Olá! Eu sou a Gabs, 
+#### ... uma aspirante a economista apaixonada por dados, automação e aquele momento mágico em que tudo roda sem erros!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1000&color=801749&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=431&separator=%3C&lines=GRANT+ALL+PRIVILEGES+ON+felicidade+TO+mim;+%3CPrint(%22Hello%2C+Gilrs!%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=0A242F&width=435&lines=Print(%22Hello%2C+Girls!%22))](https://git.io/typing-svg)
 
 🎯 **Sobre mim**  
 
-💼 Atualmente, sou Analista de Dados em uma fintech, onde transformo dados financeiros em informações estratégicas — desde a coleta via web scraping e APIs (olá, Anbima 👋), até a organização no SQL Server, com a ajuda do Airflow e Rundeck para manter tudo em ordem. Ah, e claro, sempre documentando tudo direitinho no Confluence, porque organização é comigo mesmo!
+💼 Atualmente, sou Analista de Dados em uma fintech, onde transformo dados financeiros em informações estratégicas — desde a coleta via web scraping e APIs (olá, Anbima 👋), até a organização no SQL Server, com a ajuda do Airflow e Rundeck para manter tudo em ordem. Ah, e claro, aprendendo a deixar sempre tudo bem documentado!
 
-🐍 Minha linguagem do coração? Python, é claro (clichê)... Mas estou por aqui para aprender novas ferramentas e tecnologias.
-
-📈 Meu histórico? Já passei por análise de folha de pagamento para milhares de funcionários em uma Big Tech e mergulhei em como voluntária no grupo de conjuntura econômica durante a faculdade. 
-
-💡 Por aqui pretendo deixar ~~minhas alquimias~~ meus projetos focados em tratamento de dados, automação de processos e algumas experiências que deram certo (e outras nem tanto, mas faz parte, né?).
+💡 Por aqui pretendo deixar ~~minhas alquimias~~ meus projetos de interesses pessoais focados em tratamento de dados, automação de processos, análise exploratória e algumas experiências que deram certo (e outras nem tanto, mas faz parte, né?).
 
  ### 🛠️ Tecnologias & Ferramentas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
