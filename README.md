@@ -1,11 +1,10 @@
-Atualmente construindo o futuro da Inteligência Artificial como AI Analytics Engineer na Ipnet by Vivo https://www.ipnet.cloud/
+Atualmente construindo o futuro da Inteligência Artificial como `AI Analytics Engineer` na [Ipnet by Vivo](https://www.ipnet.cloud/).
 
 Curiosa nata e defensora da transparência: aqui é meu laboratório particular de experimentos em Open Data. 
 Por aqui pretendo deixar ~~minhas alquimias~~ meus projetos de interesses pessoais focados em:
-Analytics p/ Mercado Financeiro 📈
-Projetos de Dados Abertos 🏛️
-Modelagem de IA aplicada ao mundo real 🤖
-
+ - Analytics p/ Mercado Financeiro 📈
+ - Projetos de Dados Abertos 🏛️
+ - Modelagem de IA aplicada ao mundo real 🤖
 
 
  ### Tecnologias & Ferramentas  
